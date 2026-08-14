@@ -119,7 +119,7 @@ A responsive travel and tourism website designed for exploring destinations, vie
 # 💼 Professional Experience
 
 ## Independent AI Automation & Digital Solutions Specialist
-**2022 – Present**
+**2025 – Present**
 
 ## Digital Marketing Specialist
 **HAK Ideas | 2022 – 2025**
