@@ -2,9 +2,9 @@
 
 ### AI Automation Specialist | IT & Digital Solutions | SaaS & Business Systems
 
-I am an IT professional with a Master's degree in Information Technology and practical experience designing and building AI-powered automation solutions, business management systems, web applications, Android applications, and browser extensions.
+I am an IT professional with a Master's degree in Information Technology and practical experience designing and building AI-powered automation solutions, SaaS platforms, business management systems, web applications, Android applications, and browser extensions.
 
-My work focuses on turning real-world business requirements into practical digital solutions using AI, automation, APIs, web technologies, and modern development platforms.
+My work focuses on turning real-world business requirements into practical digital solutions using AI, automation, APIs, web technologies, databases, and modern development platforms.
 
 ---
 
@@ -45,105 +45,120 @@ My work focuses on turning real-world business requirements into practical digit
 ## 💻 Technologies & Tools
 
 ### Web & Programming
+
 HTML | CSS | JavaScript | PHP | Next.js | Node.js
 
 ### Backend & Database
+
 MySQL | Supabase | Firebase
 
 ### Development & Deployment
+
 GitHub | VS Code | Vercel | Android Studio
 
 ### Business & Marketing
+
 Meta Ads Manager | Facebook Business Suite | WordPress | Canva
 
 ### AI & Creative Tools
+
 ChatGPT | Gemini | Claude | Grok | Leonardo AI | Yupp.ai | Flow | OpenMagic | Z.ai | Lmarena
 
 ---
 
-## ⭐ Featured Projects
+# ⭐ Featured Projects
 
-### 1. Nexeta AI Marketing Suite
+## 1. Nexeta AI Marketing Suite
 
-An AI-powered marketing platform designed to help businesses, agencies and digital marketers manage AI-assisted content creation, advertising, images, videos, scripts, templates and marketing workflows from a centralized platform.
+An AI-powered SaaS marketing platform designed to help businesses, agencies and digital marketers manage AI-assisted content creation, advertising, images, videos, scripts, templates and marketing workflows from a centralized platform.
 
 **Focus:** AI Marketing | SaaS | Automation | Analytics
 
 ---
 
-### 2. WhatsApp AI Automation & Customer Management
+## 2. WhatsApp AI Automation & Customer Management
 
 An AI-powered WhatsApp automation solution designed to handle customer conversations, maintain customer-specific history and data, automate responses and support business workflows.
 
-**Technologies:** WhatsApp Business Cloud API | Meta Developer | Webhooks | APIs | n8n | AI
+**Technologies:** WhatsApp Business Cloud API | Meta Developer Platform | Webhooks | APIs | n8n | AI
 
 ---
 
-### 3. School Management System
+## 3. AI Video Ad Generator
 
-A complete school management platform for managing students, teachers, classes, attendance, examinations, fees, results, timetables and reports.
+An AI-powered video advertisement and cinematic storyboard generator that transforms product information, images and creative requirements into structured video concepts, cinematic scenes and production-ready AI video prompts.
 
-**Focus:** Business Systems | Education Technology | Management Software
-
----
-
-### 4. Business Management System — ERP
-
-A business management system covering sales, purchasing, inventory, accounts, expenses, customers, suppliers and financial reporting.
-
-**Focus:** ERP | Business Automation | Database Systems
+**Focus:** Generative AI | Video Advertising | Storyboards | AI Video | Prompt Engineering
 
 ---
 
-### 5. Food Shop Management System — POS
+## 4. Payment Verification System
 
-A restaurant and food shop POS solution supporting order management, billing, kitchen orders, inventory, sales reporting and daily revenue management.
+A web-based payment verification solution designed to help organizations manage payment submissions, verification workflows and related records through a structured digital interface.
 
-**Focus:** POS | Inventory | Business Automation
-
----
-
-### 6. Android & Desktop Business Applications
-
-Developed practical applications for food shops, technology stores and service businesses, including POS, inventory, billing, repair management and technician management solutions.
-
-**Focus:** Android | Desktop Applications | Business Solutions
+**Focus:** Payment Verification | Business Automation | Web Applications | Database Systems
 
 ---
 
-### 7. Chrome Extensions
+## 5. Cargo Shipping & Tracking Website
 
-Developed browser extensions for productivity, font management, Google Business Profile workflows, sidebar enhancement and initial web vulnerability scanning.
+A responsive cargo and logistics website designed around shipment booking, destination management, tracking-number workflows, shipment information and logistics analytics.
 
-**Focus:** Chrome Extensions | Productivity | Web Tools
+**Focus:** Logistics | Shipment Tracking | Cargo Management | Web Application
 
 ---
 
-## 💼 Professional Experience
+## 6. Travel & Tours Website
 
-### IT Supervisor
+A responsive travel and tourism website designed for exploring destinations, viewing tour packages, travel services and booking-related workflows.
+
+**Focus:** Travel & Tourism | Destinations | Tour Packages | Booking Workflow
+
+---
+
+# 💼 Professional Experience
+
+## Independent AI Automation & Digital Solutions Specialist
+**2022 – Present**
+
+## Digital Marketing Specialist
+**HAK Ideas | 2022 – 2025**
+
+Worked on digital marketing and technology-driven business solutions, including social media management, digital campaigns, online advertising, content strategy and AI-assisted digital workflows.
+
+---
+
+## IT Supervisor
 **SW Sugar Mill, Silanwali | 2019 – 2022**
 
-Worked in an IT and operational environment with responsibility for managing workers and supporting organizational technology and daily operations.
+Worked in an IT and operational environment with responsibility for supporting organizational technology, managing workers and assisting with daily operational and technical requirements.
 
-### Independent AI Automation & Digital Solutions Specialist
-**2022 – Present**
+---
 
 Working independently on AI automation, SaaS solutions, web applications, business management systems, application management, digital marketing and technology solutions.
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-**Master of Information Technology (MIT)**  
-NCBA&E, Lahore — 2018
+## Master of Information Technology (MIT)
+**NCBA&E, Lahore — 2018**
 
-**Bachelor of Commerce (B.Com)**  
-University of Sargodha — 2015
+## Bachelor of Education (B.Ed)
+**Allama Iqbal Open University (AIOU) — 2017**
+
+## Bachelor of Commerce (B.Com)
+**University of Sargodha — 2015**
+
+## Intermediate (I.Com)
+**FBISE — 2013**
+
+## Matriculation
+**FBISE Faisalabad — 2011**
 
 ---
 
-## 🌍 Languages
+# 🌍 Languages
 
 - Urdu — Native
 - Punjabi — Fluent
@@ -151,7 +166,7 @@ University of Sargodha — 2015
 
 ---
 
-## 📌 Current Focus
+# 📌 Current Focus
 
 Currently focused on building practical AI automation and digital solutions for businesses, including:
 
@@ -161,4 +176,22 @@ Currently focused on building practical AI automation and digital solutions for 
 - SaaS platforms
 - Business management systems
 - API integrations
-- AI-assisted digital
+- AI-assisted digital solutions
+- Web applications
+- Business process automation
+- AI-powered marketing solutions
+
+---
+
+# 🌐 Portfolio
+
+**Live Portfolio:**  
+https://naveed-folio.vercel.app/
+
+---
+
+# 📫 Contact
+
+**Email:** mnuhbhatti333@gmail.com
+
+**GitHub:** https://github.com/nexetadm-web
